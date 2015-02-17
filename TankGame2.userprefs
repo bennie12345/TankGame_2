@@ -1,9 +1,11 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Shoot.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\OOP Scripts\SelfDestruct.cs">
     <Files>
-      <File FileName="Assets\Scripts\Shoot.cs" Line="9" Column="1" />
-      <File FileName="Assets\Scripts\MoveTank.cs" Line="1" Column="1" />
+      <File FileName="..\..\..\Periode3\UNI\Roll a ball game\Assets\Scripts\PlayerController.cs" Line="22" Column="1" />
+      <File FileName="..\..\..\Periode3\UNI\Roll a ball game\Assets\Scripts\Rotater.cs" Line="1" Column="1" />
+      <File FileName="..\..\..\Periode3\UNI\Roll a ball game\Assets\Scripts\CameraController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\OOP Scripts\SelfDestruct.cs" Line="8" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
